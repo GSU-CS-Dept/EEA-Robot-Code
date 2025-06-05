@@ -1,8 +1,11 @@
 # EEA-Robot-Code
 Code for EEA Summer Camp Robot CS demo
 
+# Assembly Video
+https://www.youtube.com/watch?v=GQi99xmohdw
+
 # Original Code
-From Elegoo.com/downloads -> Smart Car 4.0
+From http://elegoo.com/download -> Smart Car 4.0
 
 ELEGOO Smart Robot Car Kit V4.0 2024.01.30
 
