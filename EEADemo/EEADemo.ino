@@ -45,7 +45,7 @@ void setup() {
   delay(1000);
 
   // move car back and forth to verify movement
-  int motorSpeed = 50; // change this value to speed up or slow down car, min 0, max of 255
+  int motorSpeed = 200; // change this value to speed up or slow down car, min 0, max of 255
   for (Application_SmartRobotCarxxx0.Motion_Control = 0; Application_SmartRobotCarxxx0.Motion_Control < 9; Application_SmartRobotCarxxx0.Motion_Control = Application_SmartRobotCarxxx0.Motion_Control + 1)
   {
     ApplicationFunctionSet_SmartRobotCarMotionControl(Application_SmartRobotCarxxx0.Motion_Control /*direction*/, motorSpeed /*speed*/);
