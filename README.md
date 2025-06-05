@@ -4,6 +4,9 @@ Code for EEA Summer Camp Robot CS demo
 # Assembly Video
 https://www.youtube.com/watch?v=GQi99xmohdw
 
+# Camp Demo
+Click on the EEADemo.zip file, then choose the three dots in the top right corner.  Then choose Download.
+
 # Original Code (to restore car programming)
 Download:  https://download.elegoo.com/?t=RobotCarV4.0
 
