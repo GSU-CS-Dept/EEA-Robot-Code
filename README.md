@@ -1,8 +1,10 @@
 # EEA-Robot-Code
 Code for EEA Summer Camp Robot CS demo
 
-# Assembly Video
-https://www.youtube.com/watch?v=GQi99xmohdw
+# Assembly PDF & Video
+PDF: https://drive.google.com/drive/folders/1klXwhjV1QM1NNuDw5p3gnnGgoAhCNz6L
+
+Video: https://www.youtube.com/watch?v=GQi99xmohdw
 
 # Camp Demo
 Click on the EEADemo.zip file, then choose the three dots in the top right corner.  Then choose Download.
